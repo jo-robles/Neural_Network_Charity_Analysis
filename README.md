@@ -39,7 +39,7 @@ In order to predict whether applicants will be successful if funded by Alphabet 
 
 * How many neurons, layers, and activation functions did you select for your neural network model, and why?
   * We utilized the following structure:
-   * Insert picture here
+   * ![model review](https://github.com/jo-robles/Neural_Network_Charity_Analysis/blob/afe03380d94dc37cb957318d285e24b12ba32465/Resources/Model_Summary.PNG)
   * Adding additional layers, neurons and a different activation feature were meant to hopefully optimize the target model.
 * Were you able to achieve the target model performance?
   * Unfortunately not. 
@@ -55,6 +55,6 @@ In order to predict whether applicants will be successful if funded by Alphabet 
 
 In summary, the original model reports an overall 73% accuracy rate and a .56 loss:
 
-INSERT PICTURE
+![model summary](https://github.com/jo-robles/Neural_Network_Charity_Analysis/blob/afe03380d94dc37cb957318d285e24b12ba32465/Resources/Summary.PNG)
 
 Overall, this model could stand to be improved and perhaps utilization of a K-Nearest Neighbor model may do the job. As we understand the target variable (e.g., Is successful) we do have an idea of what values we are looking for. 
